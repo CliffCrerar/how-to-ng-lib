@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+    },
+    {
+			"path": "../lib-for-how-to-ng-lib"
+		}
+	],
+	"settings": {}
+}
